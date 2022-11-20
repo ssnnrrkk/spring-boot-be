@@ -8,4 +8,8 @@ public class ProductBusiness {
     public String getProductById(String id) {
         return id;
     }
+
+    public String getProductById() {
+        return "";
+    }
 }
